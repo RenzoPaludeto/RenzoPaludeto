@@ -17,7 +17,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/renzo.palu/" target="_blank">
@@ -35,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RenzoPaludeto/RenzoPaludeto/output/snake.svg" alt="Snake animation" />
+
 
 ###
