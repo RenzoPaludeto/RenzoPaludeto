@@ -2,7 +2,7 @@
 
 # Hello World! 👋
 
-## 👨‍💻 Quem sou eu?
+### 👨‍💻 Quem sou eu?
 
 Me chamo **Renzo**, e sou apaixonado por tecnologia! Estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades. 🚀
 
