@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://i.gifer.com/79fI.gif"  />
-
 ### Hello World! 👋
 
 ### 👨‍💻 Quem sou eu?
