@@ -1,39 +1,63 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenzoPaludeto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenzoPaludeto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+# Hello World! 👋
 
-<br clear="both">
+### 👨‍💻 Quem sou eu?
+
+Me chamo **Renzo**, e sou apaixonado por tecnologia! Estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades. 🚀
+
+Atualmente, estou focado em **resolver problemas do dia a dia** utilizando a tecnologia, com o objetivo de tornar as soluções mais eficientes e acessíveis.
+
+---
+
+### 💡 Metas
+
+Aqui estão algumas das minhas metas de aprendizado no momento:
+
+- **Aprender JavaScript (JS) & TypeScript (TS)**: Dominar as linguagens e entender suas diferenças.
+- **Aprender Node.js**: Construir APIs eficientes e escaláveis.
+- **Aprender Java**: Explorar o desenvolvimento back-end utilizando Java, especialmente com Spring Boot.
+- **Estudar Banco de Dados**: Melhorar o conhecimento em bancos de dados relacionais (SQL) e NoSQL, além de aprender sobre ORMs.
+
+---
+
+### 🛠️ Tecnologias que estou aprendendo
+
+Estou focado em dominar as seguintes tecnologias:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
 </div>
 
-###
+---
 
+### 📚 Minhas Ferramentas e Recursos
 
-<div align="left">
-  <a href="https://www.instagram.com/renzo.palu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="renzo.paludeto1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/renzo-paludeto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-</div>
+Atualmente, uso as seguintes ferramentas para codar e melhorar minha produtividade:
 
-###
+- **IDE/Editor de código**: VSCode, IntelliJ
+- **Versionamento**: Git, GitHub
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
 
-<br clear="both">
+---
 
+### 📫 Como entrar em contato comigo?
 
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [GitHub](https://github.com/seu-perfil)  
+- Email: seuemail@dominio.com  
 
-###
+---
+
+### ⚡ Diversão
+
+Eu também adoro explorar novos projetos, então se você tem alguma ideia ou quer colaborar, sinta-se à vontade para abrir uma **issue** ou **pull request** no meu GitHub! 😊
+
+---
+
