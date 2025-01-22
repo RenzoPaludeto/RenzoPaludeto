@@ -4,7 +4,9 @@
 
 ### 👨‍💻 Quem sou eu?
 
-Me chamo **Renzo**, e sou apaixonado por tecnologia! Estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades. 🚀
+Me chamo **Renzo**, e sou apaixonado por tecnologia! 
+
+Estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades. 🚀
 
 Atualmente, estou focado em **resolver problemas do dia a dia** utilizando a tecnologia, com o objetivo de tornar as soluções mais eficientes e acessíveis.
 
@@ -31,7 +33,6 @@ Estou focado em dominar as seguintes tecnologias:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
 </div>
 
 ---
@@ -40,23 +41,10 @@ Estou focado em dominar as seguintes tecnologias:
 
 Atualmente, uso as seguintes ferramentas para codar e melhorar minha produtividade:
 
-- **IDE/Editor de código**: VSCode, IntelliJ
+- **IDE/Editor de código**: VSCode
 - **Versionamento**: Git, GitHub
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
 
 ---
 
-### 📫 Como entrar em contato comigo?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- [GitHub](https://github.com/seu-perfil)  
-- Email: seuemail@dominio.com  
-
----
-
-### ⚡ Diversão
-
-Eu também adoro explorar novos projetos, então se você tem alguma ideia ou quer colaborar, sinta-se à vontade para abrir uma **issue** ou **pull request** no meu GitHub! 😊
-
----
 
