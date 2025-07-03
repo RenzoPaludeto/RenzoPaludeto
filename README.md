@@ -13,10 +13,10 @@ Atualmente, estou focado em **resolver problemas do dia a dia** utilizando a tec
 
 Aqui estão algumas das minhas metas de aprendizado no momento:
 
-- **Aprender JavaScript (JS) & TypeScript (TS)**: Dominar as linguagens e entender suas diferenças.
+- **Aprender JavaScript (JS) & TypeScript (TS)**: Dominar as linguagens.
 - **Aprender Node.js**: Construir APIs eficientes e escaláveis.
 - **Aprender Java**: Explorar o desenvolvimento back-end utilizando Java, especialmente com Spring Boot.
-- **Estudar Banco de Dados**: Melhorar o conhecimento em bancos de dados relacionais (SQL) e NoSQL, além de aprender sobre ORMs.
+- **Estudar Banco de Dados**: Melhorar o conhecimento em bancos de dados relacionais (SQL) e NoSQL.
 
 ---
 
